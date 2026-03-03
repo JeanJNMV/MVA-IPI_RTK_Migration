@@ -1,7 +1,7 @@
 [project]
 name = "ipi"
 version = "0.1.0"
-description = "[MVA] Inverse Problems and Imaging Project on Reverse-Time and Kirchhoﬀ Migration"
+description = "[MVA] Inverse Problems and Imaging Assignment on Reverse-Time and Kirchhoﬀ Migration"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
